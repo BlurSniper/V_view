@@ -30,8 +30,6 @@ ViewUI
 
 ## Start On Cloud IDE
 
-[https://idegithub.com/view-design/ViewUI](https://idegithub.com/view-design/ViewUI)
-
 ## Features
 
 - Dozens of useful and beautiful components.
